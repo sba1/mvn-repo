@@ -7,7 +7,7 @@ Add to the ```pom.xml```:
 <repositories>
     ...
     <repository>
-        <id>ontologizer-mvn</id>
+        <id>sba1-mvn-repo</id>
         <url>https://raw.githubusercontent.com/sba1/mvn-repo/master/</url>
         <snapshots>
             <enabled>true</enabled>
